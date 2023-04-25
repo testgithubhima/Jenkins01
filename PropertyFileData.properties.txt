@@ -1,0 +1,8 @@
+browser chrome
+url https://demo.actitime.com/login.do
+username admin
+password manager
+
+url1 https://www.flipkart.com/
+
+	
